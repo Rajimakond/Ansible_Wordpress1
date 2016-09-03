@@ -1,7 +1,0 @@
-- hosts: 192.168.1.38
-
-  roles:
-    - server
-    - php
-    - mysql
-    - wordpress
